@@ -33,7 +33,6 @@ The model is trained on the **Pima Indians Diabetes Dataset**, which contains he
 
 ## Usage
 1. Run the `diabetes_prediction.py` script to train the model and evaluate performance:
-   ```bash
    python diabetes_prediction.py
    ```
 2. The script will display:
